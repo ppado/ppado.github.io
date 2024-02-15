@@ -1,3 +1,48 @@
+- title: ASPLOS (Spring)
+  year: 2025
+  id: asplos25-1
+  link: https://www.asplos-conference.org/asplos-2025-call-for-papers/
+  deadline: '2024-03-01 23:59:00'
+  abstract_deadline: '2024-02-23 23:59:00'
+  timezone: UTC-12
+  place: Rotterdam, Netherlands
+  date: March-April, 2025
+  sub: ARCH
+
+- title: ASPLOS (Summer)
+  year: 2025
+  id: asplos25-2
+  link: https://www.asplos-conference.org/asplos-2025-call-for-papers/
+  deadline: '2024-06-24 23:59:00'
+  abstract_deadline: '2024-06-17 23:59:00'
+  timezone: UTC-12
+  place: Rotterdam, Netherlands
+  date: March-April, 2025
+  sub: ARCH
+
+- title: ASPLOS (Fall)
+  year: 2025
+  id: asplos25-3
+  link: https://www.asplos-conference.org/asplos-2025-call-for-papers/
+  deadline: '2024-10-18 23:59:00'
+  abstract_deadline: '2024-10-11 23:59:00'
+  timezone: UTC-12
+  place: Rotterdam, Netherlands
+  date: March-April, 2025
+  sub: ARCH
+
+- title: MICRO
+  year: 2024
+  id: micro24
+  link: https://microarch.org/micro57/
+  deadline: '2024-05-31 23:59:00'
+  timezone: UTC-12
+  place: Ausin, Texas, USA
+  date: November 2-6, 2024
+  start: 2024-11-02
+  end: 2024-11-06
+  sub: ARCH
+
 - title: ICCAD
   year: 2024
   id: iccad24
