@@ -1,9 +1,9 @@
-- title: ASPLOS (Spring)
+- title: ASPLOS (Fall)
   year: 2025
-  id: asplos25-1
+  id: asplos25-3
   link: https://www.asplos-conference.org/asplos-2025-call-for-papers/
-  deadline: '2024-03-01 23:59:00'
-  abstract_deadline: '2024-02-23 23:59:00'
+  deadline: '2024-10-18 23:59:00'
+  abstract_deadline: '2024-10-11 23:59:00'
   timezone: UTC-12
   place: Rotterdam, Netherlands
   date: March-April, 2025
@@ -15,17 +15,6 @@
   link: https://www.asplos-conference.org/asplos-2025-call-for-papers/
   deadline: '2024-06-24 23:59:00'
   abstract_deadline: '2024-06-17 23:59:00'
-  timezone: UTC-12
-  place: Rotterdam, Netherlands
-  date: March-April, 2025
-  sub: ARCH
-
-- title: ASPLOS (Fall)
-  year: 2025
-  id: asplos25-3
-  link: https://www.asplos-conference.org/asplos-2025-call-for-papers/
-  deadline: '2024-10-18 23:59:00'
-  abstract_deadline: '2024-10-11 23:59:00'
   timezone: UTC-12
   place: Rotterdam, Netherlands
   date: March-April, 2025
@@ -109,6 +98,17 @@
   start: 2024-09-29
   end: 2024-10-04
   sub: CV
+  
+- title: ASPLOS (Spring)
+  year: 2025
+  id: asplos25-1
+  link: https://www.asplos-conference.org/asplos-2025-call-for-papers/
+  deadline: '2024-03-01 23:59:00'
+  abstract_deadline: '2024-02-23 23:59:00'
+  timezone: UTC-12
+  place: Rotterdam, Netherlands
+  date: March-April, 2025
+  sub: ARCH
 
 - title: ICML
   year: 2024
