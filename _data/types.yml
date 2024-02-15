@@ -1,4 +1,7 @@
 ---
+- name: Computer Architecture
+  sub: ARCH
+  color: "#be0aff"
 - name: Machine Learning
   sub: ML
   color: "#ffd300"
