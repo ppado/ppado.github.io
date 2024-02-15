@@ -1,3 +1,15 @@
+- title: PACT
+  year: 2024
+  id: pact24
+  link: https://pact2024.github.io/
+  deadline: '2024-05-27 23:59:00'
+  timezone: UTC-12
+  place: Long Beach, California, USA
+  date: October 13-16, 2024
+  start: 2024-10-13
+  end: 2024-10-16
+  sub: ARCH
+
 - title: CoRL
   year: 2024
   id: corl24
