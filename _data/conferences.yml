@@ -51,10 +51,38 @@
   abstract_deadline: '2024-04-28 23:59:00'
   timezone: UTC-12
   place: New Jersey, USA
-  date: August 13-16, 2024
+  date: October/November, 2024
   start: 2024-08-13
   end: 2024-08-16
   sub: ARCH
+
+- title: ECAI
+  year: 2024
+  id: ecai24
+  link: https://www.ecai2024.eu/
+  deadline: '2024-04-25 23:59:59'
+  abstract_deadline: '2024-04-19 23:59:59'
+  timezone: UTC-12
+  place: Santiago de Compostela, Spain
+  date: October 19-24, 2024
+  start: 2024-10-19
+  end: 2024-10-24
+  sub: ML
+  note: Mandatory abstract deadline on April 19, 2024. More info <a href='https://www.ecai2024.eu/calls/main-track'>here</a>.
+
+- title: MM
+  year: 2024
+  id: mm24
+  link: https://2024.acmmm.org/
+  deadline: '2024-04-08 23:59:59'
+  abstract_deadline: '2024-04-12 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  data: October 28 - November 1, 2024
+  start: 2024-10-28
+  end: 2024-11-01
+  sub: CV
+  note: Mandatory abstract deadline on April 8, 2024. More info <a href='https://2024.acmmm.org/regular-papers'>here</a>.
 
 - title: PACT
   year: 2024
@@ -81,34 +109,6 @@
   start: 2024-09-29
   end: 2024-10-04
   sub: CV
-
-- title: MM
-  year: 2024
-  id: mm24
-  link: https://2024.acmmm.org/
-  deadline: '2024-04-08 23:59:59'
-  abstract_deadline: '2024-04-12 23:59:59'
-  timezone: UTC-12
-  place: Melbourne, Australia
-  data: October 28 - November 1, 2024
-  start: 2024-10-28
-  end: 2024-11-01
-  sub: CV
-  note: Mandatory abstract deadline on April 8, 2024. More info <a href='https://2024.acmmm.org/regular-papers'>here</a>.
-
-- title: ECAI
-  year: 2024
-  id: ecai24
-  link: https://www.ecai2024.eu/
-  deadline: '2024-04-25 23:59:59'
-  abstract_deadline: '2024-04-19 23:59:59'
-  timezone: UTC-12
-  place: Santiago de Compostela, Spain
-  date: October 19-24, 2024
-  start: 2024-10-19
-  end: 2024-10-24
-  sub: ML
-  note: Mandatory abstract deadline on April 19, 2024. More info <a href='https://www.ecai2024.eu/calls/main-track'>here</a>.
 
 - title: ICML
   year: 2024
@@ -192,7 +192,6 @@
   hindex: 32
   sub: AP
   note: Mandatory abstract deadline on December 07, 2023. More info <a href='https://icaps24.icaps-conference.org/'>here</a>.
-
 
 - title: NAACL
   year: 2024
