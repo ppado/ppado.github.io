@@ -20,6 +20,19 @@
   date: March-April, 2025
   sub: ARCH
 
+- title: ICCD
+  year: 2024
+  id: iccd24
+  link: https://iccd-conf.com/
+  deadline: '2024-05-12 23:59:00'
+  abstract_deadline: '2024-05-05 23:59:00'
+  timezone: UTC-12
+  place: Milan, Italy
+  date: November, 2024
+  start: 2024-11-13
+  end: 2024-11-16
+  sub: ARCH
+
 - title: ICCAD
   year: 2024
   id: iccad24
