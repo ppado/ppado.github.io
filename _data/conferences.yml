@@ -26,12 +26,13 @@
   link: https://neurips.cc/
   deadline: '2024-05-22 19:59:00'
   abstract_deadline: '2024-05-15'
-  timezone: UTC-12
+  timezone: UTC
   place: Vancouver, Canada
   date: December 9-15, 2024
   start: 2024-12-09
   end: 2024-12-15
   sub: ML
+  note: Mandatory abstract deadline on May 15, 2024.
 
 - title: ICCD
   year: 2024
@@ -58,6 +59,7 @@
   start: 2024-08-13
   end: 2024-08-16
   sub: ARCH
+  note: Mandatory abstract deadline on April 28, 2024.
 
 - title: ECAI
   year: 2024
