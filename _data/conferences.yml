@@ -20,6 +20,19 @@
   date: March-April, 2025
   sub: ARCH
 
+  title: NeurIPS
+  year: 2024
+  id: neurips24
+  link: https://neurips.cc/
+  deadline: '2024-05-22 19:59:00'
+  abstract_deadline: '2024-05-15'
+  timezone: UTC-12
+  place: Vancouver, Canada
+  date: December 9-15, 2024
+  start: 2024-12-09
+  end: 2024-12-15
+  sub: ML
+
 - title: ICCD
   year: 2024
   id: iccd24
