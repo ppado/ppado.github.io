@@ -11,6 +11,6 @@
 - name: Natural Language Proc
   sub: NLP
   color: "#147df5"
-- name: Knowledge Representation
-  sub: KR
+- name: System Software
+  sub: SysSW
   color: "#32a855"
