@@ -1,5 +1,4 @@
--
-  title: EuroSys (Fall)
+- title: EuroSys (Fall)
   year: 2025
   id: eurosys25
   link: https://2025.eurosys.org
@@ -13,7 +12,7 @@
   sub: SysSW
   note: Mandatory abstract deadline on October 15, 2024
   
-  title: ASPLOS (Fall)
+- title: ASPLOS (Fall)
   year: 2025
   id: asplos25-3
   link: https://www.asplos-conference.org/asplos-2025-call-for-papers/
@@ -23,7 +22,6 @@
   place: Rotterdam, Netherlands
   date: March-April, 2025
   sub: ARCH
-
 
 - title: ASPLOS (Summer)
   year: 2025
@@ -50,7 +48,7 @@
   sub: ML
   note: Mandatory abstract deadline on May 15, 2024.
 
-  title: EuroSys (Spring)
+- title: EuroSys (Spring)
   year: 2025
   id: eurosys25
   link: https://2025.eurosys.org
