@@ -49,6 +49,18 @@
   sub: ARCH
   note: Mandatory abstract deadline on September 15, 2024
 
+- title: WACV
+  year: 2025
+  id: wacv25
+  link: https://wacv2025.thecvf.com
+  deadline: '2024-07-15 23:59:00'
+  timezone: UTC-12
+  place: Tucson, Arizona
+  date: February 28 - March 4, 2025
+  start: 2025-02-28
+  end: 2025-03-04
+  sub: ML
+
 - title: ASPLOS (Summer)
   year: 2025
   id: asplos25-2
