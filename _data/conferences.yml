@@ -49,6 +49,20 @@
   sub: ARCH
   note: Mandatory abstract deadline on September 15, 2024
 
+- title: HPCA
+  year: 2025
+  id: hpca25
+  link: https://www.hpca-conf.org/2025
+  deadline: '2024-08-02 23:59:00'
+  abstract_deadline: '2024-07-26 23:59:00'
+  timezone: UTC-12
+  place: Las Vegas
+  date: March 1 - 5, 2025
+  start: 2025-03-01
+  end: 2025-03-05
+  sub: ARCH
+  note: Mandatory abstract deadline on July 26, 2024
+
 - title: WACV
   year: 2025
   id: wacv25
