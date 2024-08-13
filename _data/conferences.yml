@@ -61,13 +61,12 @@
   end: 2025-03-04
   sub: ML
 
-
 - title: ICCE
   year: 2025
   id: icce25
   link: https://www.icce.org/2025/
-  deadline: '2024-08-15 23:59:00'
-  timezone: UTC-12
+  deadline: '2024-08-15 20:59:59'
+  timezone: UTC-4
   place: Las Vegas
   date: January 11 - 14, 2025
   start: 2025-01-11
