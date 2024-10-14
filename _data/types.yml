@@ -2,6 +2,9 @@
 - name: Computer Architecture
   sub: ARCH
   color: "#be0aff"
+- name: Circuits and Systems
+  sub: CAS
+  color: "#147df5"
 - name: Machine Learning
   sub: ML
   color: "#ffd300"
